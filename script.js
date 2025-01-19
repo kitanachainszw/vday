@@ -75,7 +75,6 @@ function displayCatHeart() {
         document.getElementById('options').style.display = 'none';
     };
 }
-displayCatHeart(); // Display the cat-heart.gif
 
 // Display the cat.gif initially
 displayCat();
